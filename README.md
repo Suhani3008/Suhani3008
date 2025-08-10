@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhani Pahuja</h1>
-<h3 align="center">"I am a 2nd-year AIML student passionate about web development and data science. With strong knowledge of Data Structures and Algorithms (DSA), I consistently enhance my problem-solving skills by practicing on LeetCode and GeeksforGeeks. I aspire to build impactful solutions, combining creativity and technical expertise to shape the future of technology.</h3>
+<h3 align="center">"I am a 3rd-year AIML student passionate about web development and data science. With strong knowledge of Data Structures and Algorithms (DSA), I consistently enhance my problem-solving skills by practicing on LeetCode and GeeksforGeeks. I aspire to build impactful solutions, combining creativity and technical expertise to shape the future of technology.</h3>
 
 - 🔭 I’m currently working on **KindBite**
 
